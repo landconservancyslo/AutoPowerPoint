@@ -1,0 +1,11 @@
+altgraph==0.17.2
+future==0.18.2
+lxml==4.7.1
+natsort==8.1.0
+pefile==2021.9.3
+Pillow==9.0.1
+pyinstaller==4.9
+pyinstaller-hooks-contrib==2022.0
+python-pptx==0.6.21
+pywin32-ctypes==0.2.0
+XlsxWriter==3.0.2
